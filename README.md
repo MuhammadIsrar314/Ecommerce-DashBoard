@@ -10,8 +10,6 @@ This project showcases an interactive **E-commerce Sales Dashboard** built with 
 
 ![E-commerce Dashboard Preview](assets/dashboard.png)
 
-> 📌 *Make sure to replace `assets/dashboard.png` with your actual image path or URL if different.*
-
 ---
 
 ## ✅ Key Features
