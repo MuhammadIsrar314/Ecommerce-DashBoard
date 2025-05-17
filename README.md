@@ -8,7 +8,7 @@ This project showcases an interactive **E-commerce Sales Dashboard** built with 
 
 ## 📸 Dashboard Preview
 
-![E-commerce Dashboard Preview](assets/dashboard.png)
+![E-commerce Dashboard Preview](dashboard.png)
 
 ---
 
