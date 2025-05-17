@@ -1,57 +1,71 @@
-📊 E-commerce Sales Dashboard (Power BI)
-🔍 Overview
-This project involves building an interactive Power BI dashboard to analyze and visualize e-commerce sales data. The dashboard is designed to help users track business performance over time, across regions, categories, and customer segments.
+# 📊 E-commerce Sales Dashboard (Power BI)
 
-✅ Key Features
-📅 Month-wise Profit Analysis – Track how profit changes over time.
+## 🔍 Overview
 
-🌍 Country and State-wise Sales – Understand which regions contribute most to sales and profit.
+This project showcases an interactive **E-commerce Sales Dashboard** built with **Power BI**. It provides a comprehensive view of sales performance across months, product categories, customers, states, and countries. The dashboard supports both **detailed drill-downs** and **overall summaries**, making it ideal for data-driven decision-making in e-commerce.
 
-🛍️ Sub-category and Category Insights – See which products perform best.
+---
 
-💳 Payment Mode Distribution – Analyze which payment methods are most used.
+## 📸 Dashboard Preview
 
-👥 Customer-wise Sales Overview – Drill down to customer-level purchasing behavior.
+![E-commerce Dashboard Preview](assets/dashboard.png)
 
-📦 Overall Metrics Summary – Instant view of total sales, profit, quantity sold, and order trends.
+> 📌 *Make sure to replace `assets/dashboard.png` with your actual image path or URL if different.*
 
-🛠️ Tools & Skills Used
-Power BI Desktop
+---
 
-DAX (Data Analysis Expressions)
+## ✅ Key Features
 
-Power Query
+- 📅 **Month-wise Profit Analysis**  
+  Track how profit evolves over time.
 
-Data Cleaning & Transformation
+- 🌍 **Country & State-wise Sales**  
+  Understand which regions generate the most revenue and profit.
 
-Interactive Filters & Slicers
+- 🛒 **Category & Sub-category Performance**  
+  Identify high-performing product groups.
 
-Data Visualization & Storytelling
+- 💳 **Payment Mode Breakdown**  
+  See which payment methods are preferred by customers.
 
-📁 Dataset
-A sample e-commerce sales dataset including the following fields:
+- 👤 **Customer-wise Sales**  
+  View top customers based on purchase volume or value.
 
-Order Date, Product Category, Sub-Category
+- 📦 **Overall Business Metrics**  
+  Monitor total quantity sold, revenue, and profitability at a glance.
 
-Sales Amount, Profit, Quantity
+---
 
-State, Country, Customer Name
+## 🛠️ Tools & Skills Used
 
-Payment Mode
+- **Power BI Desktop**
+- **DAX (Data Analysis Expressions)**
+- **Power Query Editor**
+- **Data Cleaning & Transformation**
+- **Data Visualization & Storytelling**
+- **Business Intelligence Concepts**
 
-📷 Dashboard Preview
-(Add screenshots or a video demo if available)
+---
 
-🎯 Outcome
+## 📁 Dataset Details
+
+The dataset includes:
+
+- **Order Information**: Order Date, Product Category, Sub-Category  
+- **Sales Details**: Sales Amount, Quantity, Profit  
+- **Customer Info**: Name, State, Country  
+- **Payment Details**: Mode of payment  
+
+---
+
+## 🎯 Insights
+
 This dashboard enables stakeholders to:
 
-Identify high-performing products and regions.
+- Make quick comparisons of monthly trends.
+- Perform regional sales analysis.
+- Identify popular products and top customers.
+- Understand payment mode preferences.
+- View both high-level and granular business insights.
 
-Make data-driven decisions based on visual insights.
 
-Quickly monitor monthly and overall business performance.
-
-📌 Author
-Name: (Your Full Name)
-Email: (Optional)
-LinkedIn: [Your LinkedIn URL]
